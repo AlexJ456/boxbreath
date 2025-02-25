@@ -1,0 +1,9 @@
+{
+  "name": "Box Breathing PWA",
+  "short_name": "Breathing",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#b45309",
+  "icons": [...] 
+}
